@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+form{
+    border: 1px solid black;
+    border-radius: 12px;
+    margin:5em auto;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+#result{
+    padding: 1em;
+    border: 1px solid black;
+   
+}
